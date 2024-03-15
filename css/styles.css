@@ -15,3 +15,12 @@ h1 {
 #result .red {
   color: #e74c3c;
 }
+#countdown .red {
+  color: #e74c3c;
+}
+#result .resultado {
+  color: grey;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: yellowgreen;
+  font-size: 25px;
+}
